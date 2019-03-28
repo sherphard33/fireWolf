@@ -1,7 +1,7 @@
 {
-  "name": "malaika",
+  "name": "StarFyre",
   "version": "1.0.0",
-  "description": "malaika assistant",
+  "description": "digital assistant",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
